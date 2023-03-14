@@ -1,2 +1,2 @@
 # linkshrub
-linktr.ee - styled landing page generator
+linktr.ee-styled landing page generator
