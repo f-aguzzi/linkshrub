@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Google",
+        "desc" : "Google Search Engine",
+        "link" : "https://www.google.com"
+    },
+    {
+        "name" : "YouTube",
+        "desc" : "The world's most popular video sharing platform",
+        "link" : "https://www.youtube.com"
+    },
+    {
+        "name" : "DuckDuckGo",
+        "desc" : "A non-tracking search engine",
+        "link" : "https://www.duckduckgo.com"
+    }
+]
