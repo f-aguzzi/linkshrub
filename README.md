@@ -14,7 +14,7 @@ From the main folder:
 
 ```yarn start```
 
-### Editing the links
+## Editing the links
 
 While making sure to maintain the formatting provided in the example,
 
