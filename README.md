@@ -1,5 +1,16 @@
-# linkshrub
-linktr.ee-styled landing page generator
+# LinkShrub
+
+`linktr.ee`-styled landing page generator.
+
+<p align="center">
+    <img src="./src/img/linkshrub.svg" style="width: 40%" alt="LinkShrub Logo" />
+</p>
+
+Check out the demo:
+
+[![GitHub Pages Demo](https://img.shields.io/badge/GitHub_Pages-LinkShrub_Demo-blue)](https://f-aguzzi.github.io/linkshrub/)
+
+---
 
 # Instructions
 
@@ -8,11 +19,20 @@ linktr.ee-styled landing page generator
 ### Install
 From the main folder:
 
-```yarn install```
+```sh
+yarn install
+```
 
 ### Startup
 
-```yarn start```
+This will run the development server:
+```sh
+yarn start
+```
+
+This will 
+
+### Static build
 
 ## Editing the links
 

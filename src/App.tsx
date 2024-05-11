@@ -21,9 +21,10 @@ const linksArray = () => {
 
 function App() {
   return (
-    <div className="bg-gradient-to-b from-blue-500 to-pink-500 min-h-screen w-screen">
+    <div className="bg-gradient-to-b from-teal-500 to-purple-500 min-h-screen w-screen py-6 px-20">
       <div className="flex flex-col mx-8">
         <h1 className="text-6xl font-bold drop-shadow-md text-slate-100 p-5 mx-auto"> {data.name} </h1>
+        <img src={data.img} className="object-scale-down rounded-full mx-auto" alt="Landing page." />
         <p className="text-xl font-bold drop-shadow-sm text-slate-200 p-3 mx-auto">
           {data.desc}
         </p>

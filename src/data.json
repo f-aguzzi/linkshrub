@@ -1,4 +1,5 @@
 {
-    "name" : "John Doe's Linkshrub",
-    "desc" : "Hey, I'm John Doe. Check out my links:"
+    "name" : "Federico Aguzzi's LinkShrub",
+    "img"  : "http://github.com/f-aguzzi.png",
+    "desc" : "Hi, I'm Federico Aguzzi. Check out my links:"
 }

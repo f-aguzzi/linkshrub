@@ -1,17 +1,17 @@
 [
     {
-        "name" : "Google",
-        "desc" : "Google Search Engine",
-        "link" : "https://www.google.com"
+        "name" : "GitHub",
+        "desc" : "Check out my repositories!",
+        "link" : "https://www.github.com/f-aguzzi"
     },
     {
-        "name" : "YouTube",
-        "desc" : "The world's most popular video sharing platform",
-        "link" : "https://www.youtube.com"
+        "name" : "LinkedIn",
+        "desc" : "Check out my LinkedIn profile!",
+        "link" : "https://www.linkedin.com/in/federico-aguzzi-b500201b9/"
     },
     {
-        "name" : "DuckDuckGo",
-        "desc" : "A non-tracking search engine",
-        "link" : "https://www.duckduckgo.com"
+        "name" : "Personal page",
+        "desc" : "My personal website.",
+        "link" : "https://f-aguzzi.github.io/"
     }
 ]
